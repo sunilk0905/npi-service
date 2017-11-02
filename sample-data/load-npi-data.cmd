@@ -1,0 +1,1 @@
+mongoimport -d npi_dev_db -c npi-data --type csv --file npidata_sample.csv --headerline
